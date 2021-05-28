@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rachmannh
+- 👀 I’m interested in Front-End Developer and UI Designer
+- 🌱 I’m currently learning HTML,CSS,Javascript,Codeigniter
