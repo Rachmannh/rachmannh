@@ -3,4 +3,4 @@
 - Jr Front-end Developer & UI Designer
 - Bachelor of Computer Science.
 - 👀 I’m interested in Front-End Developer and UI Designer
-- 🌱 I’m currently learning HTML,CSS,Javascript,Bootstrap
+- 🌱 I’m currently learning HTML,CSS,Javascript and Bootstrap.
