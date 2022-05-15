@@ -1,4 +1,4 @@
-- 👋 Hi,Selamat Datang di profil saya,Welcome to my page | I’m Rachman Nul Hakim
+- 👋 Hi,Selamat Datang di profil saya,Welcome to my profile | I’m Rachman Nul Hakim
 - I'm from Tangerang,Indonesia,
 - Jr Front-end Developer & UI Designer
 - Bachelor of Computer Science.
