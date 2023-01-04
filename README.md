@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi,Selamat Datang di profil saya,Welcome to my profile | I’m Rachman Nul Hakim<br>I'm from Tangerang,Indonesia,<br>Jr Front-end Developer & UI Designer<br>Bachelor of Computer Science.<br>👀 I’m interested in Front-End Developer and UI Designer<br>🌱 I’m currently learning HTML,CSS,Javascript and Bootstrap.
+👋 Hi,Selamat Datang di profil saya,Welcome to my profile | I’m Rachman Nul Hakim<br>I'm from Tangerang,Indonesia,<br>Jr Front-end Developer<br>Bachelor of Computer Science.<br>👀 I’m interested in Front-End Developer and UI Designer<br>🌱 I’m currently learning HTML,CSS,Javascript and Bootstrap.
 
 
 ## 🌐 Socials:
